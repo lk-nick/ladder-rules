@@ -1,8 +1,8 @@
 ## 自用开发工具相关
 
-DOMAIN_SUFFIX,docker.com
-DOMAIN_SUFFIX,jetbrains.com
-DOMAIN_SUFFIX,apache.org
-DOMAIN_SUFFIX,maven.apache.org
-DOMAIN_SUFFIX,github.com
-DOMAIN_SUFFIX,vmware.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,maven.apache.org
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,vmware.com
