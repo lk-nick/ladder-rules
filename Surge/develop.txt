@@ -1,0 +1,6 @@
+DOMAIN_SUFFIX,docker.com
+DOMAIN_SUFFIX,jetbrains.com
+DOMAIN_SUFFIX,apache.org
+DOMAIN_SUFFIX,maven.apache.org
+DOMAIN_SUFFIX,github.com
+DOMAIN_SUFFIX,vmware.com
